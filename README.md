@@ -37,4 +37,4 @@ This project demonstrates how to build a user profile card integrated with a sha
 
 ---
 
-This project is perfect for showcasing your profile or adding a share feature to your web application with minimal effort. Customize it to suit your needs!
+This project is perfect for showcasing your profile or adding a share feature to your web application with minimal effort.
