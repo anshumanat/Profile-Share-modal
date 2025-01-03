@@ -28,12 +28,10 @@ This project demonstrates how to build a user profile card integrated with a sha
 ## Screenshots
 
 ### Profile Card
-[![Screenshot 2025-01-03 202621](https://github.com/user-attachments/assets/797c0be5-581b-45c6-a4ff-5768e856a212)
-]
+[]
 
 ### Share Modal
-[![Screenshot 2025-01-03 202641](https://github.com/user-attachments/assets/05f2c2d0-57ff-4ee6-8d8f-6ea6586da6cc)
-]
+[]
 
 ---
 
