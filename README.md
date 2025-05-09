@@ -17,7 +17,7 @@ This project demonstrates how to build a user profile card integrated with a sha
 
 ---
 
-## Highlights
+## Highlights 
 
 - **User-Friendly Design:** Clean and responsive interface to enhance user experience.
 - **Seamless Sharing:** Effortlessly share profile details across multiple platforms.
