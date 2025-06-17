@@ -2,7 +2,7 @@
 
 A simple and elegant implementation using HTML, CSS, and JavaScript to create a profile card with a share modal. This project allows users to display their profile details and share them seamlessly across popular social media platforms.
 
-## Overview 
+## Overview  
 
 This project demonstrates how to build a user profile card integrated with a share modal. It provides an interactive way to present user information and enables sharing options for various platforms.
 
